@@ -39,6 +39,7 @@ git push origin master
 
 ## Resources
 
+- [Detox docs](https://wix.github.io/Detox/docs/introduction/getting-started/)
 - [React Native TDD (CodingItWrong)](https://www.youtube.com/playlist?list=PLXXnezSEtvNPZroRdvjhEVzOhURl572Lf)
 - [LearnTDDIn React Native](https://learntdd.in/react-native/)
 - [OutsideIn Frontend Development](https://outsidein.dev/)
