@@ -27,6 +27,7 @@ Then, in a new terminal window:
 yarn build
 yarn detox
 ```
+These are custom commands which will build a debug .apk and then run detox test on the build.
 
 ## Resources
 
