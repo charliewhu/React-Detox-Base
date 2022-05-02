@@ -30,5 +30,12 @@ yarn test-debug
 
 ## Resources
 
+- [React Native TDD (CodingItWrong)](https://www.youtube.com/playlist?list=PLXXnezSEtvNPZroRdvjhEVzOhURl572Lf)
+- [LearnTDDIn React Native](https://learntdd.in/react-native/)
+- [OutsideIn Frontend Development](https://outsidein.dev/)
+- [TestDrivenReact Resources](https://testdrivenreact.com/docs/resources/)
+- [ReactNativeTesting.io](https://reactnativetesting.io/)
+- [React Native Testing Library](https://callstack.github.io/react-native-testing-library/)
 - [https://github.com/wix/Detox](https://github.com/wix/Detox)
 - [https://medium.com/wix-engineering/detox-writing-stable-test-suites-372c9d537184](https://medium.com/wix-engineering/detox-writing-stable-test-suites-372c9d537184)
+- [React Testing Library Tutorial (NetNinja)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ)
