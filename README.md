@@ -6,8 +6,8 @@ A blank canvas React Native project for running end-to-end tests on Android with
 ## Setup
 
 ```bash
-git clone https://github.com/danecando/JSM-Detox-Testing.git
-cd JSMarathon
+git clone https://github.com/charliewhu/React-Detox-Base.git
+cd React-Detox-Base
 yarn
 ```
 
@@ -15,15 +15,17 @@ yarn
 
 ### Android
 
+Run this command (and keep it running):
+
 ```bash
 yarn start
 ```
 
-Then in a new terminal window:
+Then, in a new terminal window:
 
 ```bash
-yarn e2e:build-android
-yarn e2e:run-android
+yarn build-debug
+yarn test-debug
 ```
 
 ## Resources
