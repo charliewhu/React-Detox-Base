@@ -9,8 +9,9 @@
     "test": "jest",
     "lint": "eslint .",
     "clean": "npx react-native-clean-project",
-    "build-debug": "detox build --configuration android.debug",
-    "test-debug": "detox test --configuration android.debug",
+    "build": "detox build --configuration android.debug",
+    "detox": "detox test --configuration android.debug",
+    "retest": "detox test --configuration android.debug --reuse",
     "build-release": "detox build --configuration android.release",
     "test-release": "detox test --configuration android.release"
   },
