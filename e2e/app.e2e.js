@@ -7,10 +7,6 @@ describe('App', () => {
     });
   });
 
-  afterAll(async () => {
-    await device.terminateApp();
-  });
-
   beforeEach(async () => {
     await device.reloadReactNative();
   });
