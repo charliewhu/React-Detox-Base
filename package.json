@@ -9,10 +9,10 @@
     "test": "jest",
     "lint": "eslint .",
     "clean": "npx react-native-clean-project",
-    "e2e:build-ios": "detox build --configuration ios",
-    "e2e:build-android": "detox build --configuration android",
-    "e2e:run-ios": "detox test --configuration ios",
-    "e2e:run-android": "detox test --configuration android"
+    "build-debug": "detox build --configuration android.debug",
+    "test-debug": "detox test --configuration android.debug",
+    "build-release": "detox build --configuration android.release",
+    "test-release": "detox test --configuration android.release"
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.11",

@@ -1,14 +1,8 @@
-
 /* eslint-disable no-undef */
 describe('App', () => {
-  beforeAll(async () => {
-    await device.launchApp({
-      newInstance: true,
-    });
-  });
 
   beforeEach(async () => {
-    await device.reloadReactNative();
+    await device.launchApp();
   });
 
   it('says hello react native', async () => {
