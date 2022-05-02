@@ -15,11 +15,13 @@ yarn
 
 ### Android
 
+Run this command (and keep it running):
+
 ```bash
 yarn start
 ```
 
-Then in a new terminal window:
+Then, in a new terminal window:
 
 ```bash
 yarn build-debug
