@@ -29,6 +29,14 @@ yarn detox
 ```
 These are custom commands which will build a debug .apk and then run detox test on the build.
 
+## Add to your own new repo
+
+```
+git remote rm origin 
+git remote add origin <your github repo.git>
+git push origin master
+```
+
 ## Resources
 
 - [React Native TDD (CodingItWrong)](https://www.youtube.com/playlist?list=PLXXnezSEtvNPZroRdvjhEVzOhURl572Lf)
