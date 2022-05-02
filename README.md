@@ -22,8 +22,8 @@ yarn start
 Then in a new terminal window:
 
 ```bash
-yarn e2e:build-android
-yarn e2e:run-android
+yarn build-debug
+yarn test-debug
 ```
 
 ## Resources
