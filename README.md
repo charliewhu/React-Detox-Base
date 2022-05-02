@@ -24,8 +24,8 @@ yarn start
 Then, in a new terminal window:
 
 ```bash
-yarn build-debug
-yarn test-debug
+yarn build
+yarn detox
 ```
 
 ## Resources
