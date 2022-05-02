@@ -1,6 +1,6 @@
 # React Native E2E Testing with Detox
 
-A blank canvas React Native project for running end-to-end tests on Android with Detox. This was forked from [Dane Grant's repo here](https://github.com/danecando/JSM-Detox)
+A blank canvas React Native project for running end-to-end tests on Android with Detox. This was forked from [Dane Grant's repo here](https://github.com/danecando/JSM-Detox).
 
 
 ## Setup
