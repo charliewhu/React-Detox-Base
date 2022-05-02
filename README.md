@@ -1,14 +1,7 @@
 # React Native E2E Testing with Detox
 
-Learn how to setup your local or CI environment to run E2E tests on iOS & Android emulators with Detox. Write E2E tests for a demo application covering best practices and gotchas along the way.
+A blank canvas React Native project for running end-to-end tests on Android with Detox. This was forked from [https://github.com/danecando/JSM-Detox]
 
-[This document](https://www.notion.so/danecando/React-Native-E2E-Testing-with-Detox-210239315470489095d0b4e51cfc5768) contains links to documentation and resources related to each part of the walk through during this presentation.
-
-## Table of contents
-
-- [Setup](#setup)
-- [Running](#running)
-- [Resources](#resources)
 
 ## Setup
 
